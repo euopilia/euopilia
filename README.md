@@ -1,3 +1,4 @@
+```markdown
 # 🔐 Dany G Sam — Cybersecurity Portfolio
 
 <p align="center">
@@ -57,3 +58,24 @@ To lead security at scale, architect resilient digital ecosystems, and drive str
 
 ## ⚡ Tech Stack
 
+```
+
+HTML • CSS • JavaScript
+Linux • Open Source • Security Tools
+Blockchain • Quantum Research
+
+```
+
+---
+
+## 📬 Contact
+
+📧 **danygesam@gmail.com**  
+🌐 All platforms: **@danygsam**
+
+---
+
+<p align="center">
+  <strong>“Security is not a feature. It is the foundation.”</strong>
+</p>
+```
